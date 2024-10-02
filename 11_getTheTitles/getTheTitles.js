@@ -1,6 +1,6 @@
-const getTheTitles = function() {
-
-};
+const getTheTitles = function () {
+  return obj.title
+}
 
 // Do not edit below this line
-module.exports = getTheTitles;
+module.exports = getTheTitles
